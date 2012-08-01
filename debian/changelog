@@ -1,5 +1,7 @@
-pai (2.12.1oi1-1) UNRELEASED; urgency=low
+pai (2.12.1oi1-1~aptiso1) unstable; urgency=low
 
   * Initial release.
+  * [3f10cc5] Initialize upstream branch
+  * [1665c21] Imported Upstream version 2.12.1oi1
 
- -- Laércio de Sousa <lbsousajr@gmail.com>  Wed, 01 Aug 2012 10:45:44 -0300
+ -- Laércio de Sousa <lbsousajr@gmail.com>  Wed, 01 Aug 2012 10:46:54 -0300
